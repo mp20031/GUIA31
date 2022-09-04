@@ -1,0 +1,7 @@
+/* ejercicio1a.css   MP20031  */
+fichero {background-color:brown;}
+ficha {background-color:blue; display:block;} nombre {color:white; display:inline;} apellido {color:yellow; display:inline;}
+direccion {color:yellow;font-size:10cm; display:none;}
+telefono{color:whitesmoke; display:inline;}
+email{color:cadetblue; display:inline;}
+

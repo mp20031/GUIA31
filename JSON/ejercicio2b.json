@@ -1,0 +1,31 @@
+{
+	"pais":{
+		"@nombre":"El Salvador",
+		"moneda":"Dolar $",
+		"departamento":[
+			{
+				"@id":"1",
+				"@nombre":"San Salvador",
+				"cabecera":"San Salvador",
+				"habitantes":"1,700,000",
+				"altura":"545 MSNM"
+			},
+			{
+				"@id":"2",
+				"@nombre":"Chalatenango",
+				"cabecera":"Chalatenango",
+				"habitantes":"192,788",
+				"altura":"396 MSNM",
+				"superficie":"2017 km2"
+			},
+			{
+				"@id":"3",
+				"@nombre":"La Union",
+				"cabacera":"La Union",
+				"habitantes":"238,217",
+				"altura":"608 MSNM",
+				"superficie":"2074 km2"
+			}
+		]
+	}
+}

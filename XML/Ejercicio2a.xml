@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone= 'yes'?>
+<?xml-stylesheet type="text/css" href="ejercicio2a.css" ?>
+<!-- ejercicio2a.xml  MP20031 -->
+<pais nombre="El Salvador">
+<moneda>Dolar $</moneda>
+<departamento id="1" nombre="San Salvador">
+<cabecera>San Salvador</cabecera>
+<habitantes>1,700,000</habitantes>
+<altura>545 MSNM</altura>
+</departamento>
+<departamento id="2" nombre ="Chalatenango">
+<cabecera>Chalatenango</cabecera>
+<habitantes>192,788</habitantes>
+<altura>396 MSNM</altura>
+<superficie>2017 km2</superficie>
+</departamento>
+
+</pais>
